@@ -29,3 +29,31 @@
     margin-right: 0;
     display: inline-block;
 }
+.top-socials--item {margin: 0;
+    margin-left: 5px;
+    padding: 5px;}
+.header {
+    height: 110px;
+}   
+.header-logo {
+    margin: 35px 0;
+} 
+.header-menu {
+    text-align: center;
+}
+.header-menu--item {
+    margin: 45px 5px;
+    display: inline-block;
+}
+.header-menu--clik {
+    padding: 0 10px;
+    color: #506a85;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.header-search {    
+    margin-top: 45px;}
+.header-search--clik {
+    padding: 5px;
+}
